@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <!-- - 🌱 I’m currently learning **Data Structures and Algorithms.** -->
 
-- 🌱 I’m currently learning **Flutter and Cloud Computing Basics.**
+- 🌱 I’m currently learning **Flutter and DevOps basics.**
 
 <!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
 
