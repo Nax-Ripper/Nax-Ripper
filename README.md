@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Reminder application**
+- 🔭 I’m currently working on **Vue Basics**
 
 <!-- - 🔭 I’m currently working on **[Reminder_app](https://covid-19-tracker-e4bda.web.app/)** -->
 
