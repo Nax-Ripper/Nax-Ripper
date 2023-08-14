@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Vue Basics**
+- 🔭 I’m currently working on **100 Days of Python Challange**
 
 <!-- - 🔭 I’m currently working on **[Reminder_app](https://covid-19-tracker-e4bda.web.app/)** -->
 
 <!-- - 🌱 I’m currently learning **Data Structures and Algorithms.** -->
 
-- 🌱 I’m currently learning **Flutter and DevOps basics.**
+- 🌱 I’m currently learning **Python and DevOps basics.**
 
 <!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
 
